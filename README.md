@@ -1,16 +1,19 @@
-# nlw-return-impulse-web
+# NLW Return Impulse Web
 
 Projeto feito a partir do bootcamp NLW Return da Rocketseat.
 
-O projeto em si tem como base uma caixa de feedbacks para uma loja, contendo vários tipos diferentes de feedbacks e fazendo com que todos eles funcionem, tendo então contato com o back-end para enviar as solicitacoes por email.
+![preview1](./.github/preview1.png)
+![preview2](./.github/preview2.png)
 
-Tecnologias usadas:
+## 👨‍💻 Tecnologias
 
-* React
-* React-dom
-* Axios
-* Typescript
-* Vite
-* Tailwindcss
-* Headlessui
-* Phosphor-react
+[🔗 Clique aqui para acessar](https://nlw-return-impulse-web-phi.vercel.app/)
+
+- React
+- React-dom
+- Axios
+- Typescript
+- Vite
+- Tailwindcss
+- Headlessui
+- Phosphor-react
